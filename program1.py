@@ -16,7 +16,7 @@ for i in range(1, bulan + 1):
         laba += laba_bulan
         print(f'Laba bulan ke-{i} sebesar: {laba_bulan}')
     elif i == 8:
-        laba_bulan = modal * 0.03
+        laba_bulan = modal * 0.02  # Mengubah ke 2% untuk bulan ke-8
         laba += laba_bulan
         print(f'Laba bulan ke-{i} sebesar: {laba_bulan}')
 

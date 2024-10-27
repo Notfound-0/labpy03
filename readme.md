@@ -1,10 +1,10 @@
 # Praktikum 3
 
 ## Program `latihan1.py`
-Program ini menampilkan pesan sederhana "Ini adalah latihan 1".
+Program ini menampilkan pesan sederhana "Hello World".
 
 ## Program `latihan2.py`
-Program ini menampilkan pesan sederhana "Ini adalah latihan 2".
+Program ini menampilkan hasil penjumlahan.
 
 ## Program `program1.py`
 Program ini menghitung laba berdasarkan skenario usaha selama 8 bulan.

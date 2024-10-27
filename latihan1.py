@@ -1,1 +1,2 @@
-print("Ini adalah latihan 1")
+print("Hello World")
+print("Saya sedang belajar python")
