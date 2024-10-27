@@ -1,0 +1,1 @@
+print("Ini adalah latihan 1")
